@@ -1,0 +1,20 @@
+[
+    {
+        "model": "appmanager.app", 
+        "pk": 1,
+        "fields": {
+            "name": "Test App",
+            "version": "1.0.0",
+            "description": "This is a sample test app."
+        }
+    },
+    {
+        "model": "appmanager.app",
+        "pk": 2,
+        "fields": {
+            "name": "Another App",
+            "version": "2.1.0",
+            "description": "Another test application."
+        }
+    }
+]
